@@ -1,0 +1,246 @@
+*{butuh luce? panggil sj}*
+
+_• Server: Luce.com_
+_• Version: v3.1_
+
+*GROUP*
+- {prefix}absen
+- {prefix}add
+- {prefix}afk
+- {prefix}antibot
+- {prefix}antidelete
+- {prefix}antilink
+- {prefix}antilinknokick
+- {prefix}antiluar
+- {prefix}antiviewonce
+- {prefix}antiwame
+- {prefix}antiwamenokick
+- {prefix}cekabsen
+- {prefix}cekidgroup
+- {prefix}cekwarn
+- {prefix}delete
+- {prefix}deleteabsen
+- {prefix}delwarn
+- {prefix}demote
+- {prefix}demotedetector
+- {prefix}descgc
+- {prefix}groupadmin
+- {prefix}groupinfo
+- {prefix}groupsetting
+- {prefix}hidetag
+- {prefix}kick
+- {prefix}leavegc
+- {prefix}left
+- {prefix}levelling
+- {prefix}linkgc
+- {prefix}revokelink
+- {prefix}listwarn
+- {prefix}mulaiabsen
+- {prefix}mute
+- {prefix}promote
+- {prefix}promotedetector
+- {prefix}refreshgroup
+- {prefix}resetwarn
+- {prefix}setdescgc
+- {prefix}setnamegc
+- {prefix}setppgc
+- {prefix}setppgcpanjang
+- {prefix}setwarn
+- {prefix}sider
+- {prefix}tagall
+- {prefix}totag
+- {prefix}vote
+- {prefix}warn
+- {prefix}welcome
+
+*OWNER*
+- {prefix}addbalance
+- {prefix}addlevel
+- {prefix}addlimit
+- {prefix}addrespon
+- {prefix}addxp
+- {prefix}anticall
+- {prefix}anticallnoblock
+- {prefix}antideletepc
+- {prefix}autonexara
+- {prefix}autoread
+- {prefix}autotype
+- {prefix}ban
+- {prefix}block
+- {prefix}broadcast
+- {prefix}bccancel
+- {prefix}bcconfirm
+- {prefix}bcgroup
+- {prefix}bcgchidetag
+- {prefix}bchidetag
+- {prefix}bcpc
+- {prefix}bcstat
+- {prefix}buttonmode
+- {prefix}buttontojson
+- {prefix}chatgroup
+- {prefix}clearchat
+- {prefix}copythumbnail
+- {prefix}createbutton
+- {prefix}createlist
+- {prefix}createredeem
+- {prefix}createlist
+- {prefix}createthumbnail
+- {prefix}delbalance
+- {prefix}dellevel
+- {prefix}dellimit
+- {prefix}deleteredeem
+- {prefix}delrespon
+- {prefix}delxp
+- {prefix}globalgamemode
+- {prefix}golink
+- {prefix}grabcontact
+- {prefix}inforedeem
+- {prefix}inviteme
+- {prefix}join
+- {prefix}leaveall
+- {prefix}leavegcbyid
+- {prefix}levellingpc
+- {prefix}listredeem
+- {prefix}listrespon
+- {prefix}mutebc
+- {prefix}mutebyid
+- {prefix}mycontacts
+- {prefix}onlygroup
+- {prefix}onlyindo
+- {prefix}onlyprem
+- {prefix}pconlyprem
+- {prefix}premiumgroup
+- {prefix}promoteme
+- {prefix}public
+- {prefix}publicbyid
+- {prefix}queue
+- {prefix}react
+- {prefix}resetanonymous
+- {prefix}resetbalance
+- {prefix}resetlevel
+- {prefix}resetxp
+- {prefix}resetlimit
+- {prefix}resetpremium
+- {prefix}resetresponsee
+- {prefix}self
+- {prefix}selfbyid
+- {prefix}setbio
+- {prefix}setdefaultweltype
+- {prefix}setname
+- {prefix}setopenaikey
+- {prefix}setpp
+- {prefix}setpppanjang
+- {prefix}setwrsuit
+- {prefix}setwrttt
+- {prefix}testbutton
+- {prefix}unban
+- {prefix}unblock
+- {prefix}unreact
+- {prefix}upres
+
+*GAME*
+- {prefix}asahotak
+- {prefix}buylimit
+- {prefix}caklontong
+- {prefix}dare
+- {prefix}family100
+- {prefix}hint
+- {prefix}math
+- {prefix}nyerah
+- {prefix}redeem
+- {prefix}siapakahaku
+- {prefix}sloth
+- {prefix}suit
+- {prefix}susunkalimat
+- {prefix}susunkata
+- {prefix}susunlirik
+- {prefix}tebakbendera
+- {prefix}tebakbom
+- {prefix}tebakkata
+- {prefix}tekateki
+- {prefix}tfbalance
+- {prefix}truth
+
+*RANDOM*
+- {prefix}alay
+- {prefix}apakah
+- {prefix}cekkhodam
+- {prefix}faktaunik
+- {prefix}jadian
+- {prefix}kapankah
+- {prefix}katabijak
+- {prefix}pantun
+- {prefix}puisi
+- {prefix}randomanime
+- {prefix}randomnumber
+- {prefix}randomtag
+- {prefix}rate
+- {prefix}siapakah
+
+*SEARCH*
+- {prefix}alkitab
+- {prefix}alquranaudio
+- {prefix}artinama
+- {prefix}brainly
+- {prefix}google
+- {prefix}ipchecker
+- {prefix}jadwalshalat
+- {prefix}lirik
+
+*STICKER*
+- {prefix}sticker
+- {prefix}stickercircle
+- {prefix}stickerwm
+- {prefix}takesticker
+
+*TOOLS*
+- {prefix}cekplatform
+- {prefix}ehex
+- {prefix}dhex
+- {prefix}ebase64
+- {prefix}dbase64
+- {prefix}enc
+- {prefix}dec
+- {prefix}fakereply
+- {prefix}kirim
+- {prefix}poll
+- {prefix}qrcode
+- {prefix}readmore
+- {prefix}readviewonce
+- {prefix}shortlink
+- {prefix}myemail
+- {prefix}getemail
+- {prefix}toviewonce
+- {prefix}translate
+- {prefix}halah
+- {prefix}hilih
+- {prefix}huluh
+- {prefix}heleh
+- {prefix}holoh
+
+*INFO*
+- {prefix}cekpremium
+- {prefix}infocovid
+- {prefix}infogempa
+- {prefix}infounsur
+- {prefix}kodebahasa
+- {prefix}leavenosewa
+- {prefix}limit
+- {prefix}balance
+- {prefix}listban
+- {prefix}listblock
+- {prefix}listgroup
+- {prefix}listgroupnosewa
+- {prefix}listonline
+- {prefix}listpremium
+- {prefix}listpremiumgroup
+- {prefix}profile
+- {prefix}status
+- {prefix}topglobal
+- {prefix}toplocal
+
+*GENERAL
+- {prefix}infobot
+- {prefix}owner
+- {prefix}ping
+- {prefix}runtime h
